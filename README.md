@@ -7,3 +7,22 @@
 
 ## ファイル構成
 - README.md: プロジェクトの説明ファイル
+- hello.py: Pythonの「Hello, World!」プログラム
+- index.html: シンプルなウェブページ
+- script.js: JavaScriptファイル
+
+## 使い方
+1. このリポジトリをクローンします。
+   ```
+   git clone https://github.com/makotokabuki/kabuki.git
+   ```
+
+2. Pythonプログラムを実行します。
+   ```
+   python hello.py
+   ```
+
+3. index.htmlをブラウザで開くと、簡単なウェブページが表示されます。
+
+## 作者
+歌舞伎
